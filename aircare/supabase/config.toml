@@ -1,0 +1,4 @@
+project_id = "aircare"
+
+[functions.fetch-air-quality]
+verify_jwt = false
